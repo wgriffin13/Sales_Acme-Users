@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+  
+.title {
+    background-color: dodgerBlue;
+    padding: 10px;
+    border-radius: 8px;
+}
+.title a {
+    color: white;
+}
+
+.user-details {
+    margin-top: 10px;
+    height: 50vh;
+    border: solid 1px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: dodgerBlue;
+    font-size: larger;
+    color: white;
+}
+  
